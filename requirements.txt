@@ -1,0 +1,4 @@
+flask
+python-dotenv   # required for .flaskenv config
+pymongo[srv]    # for MongoDB
+gunicorn        # for deployment on render.com
